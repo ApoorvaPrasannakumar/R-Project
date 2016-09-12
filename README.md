@@ -1,7 +1,18 @@
 # R-Project
 
 Description of project:
-Dataset: Each row in this dataset contains information about a person who signed up for a demo of a software product. The objective is to build a model to predict whether or not a given user will "convert" and purchase the software.
+
+The data set used in this project is about demo of a product .Each row in this dataset contains information about a person who signed up for a demo of a software product. The objective is to build a model to predict whether or not a given user will "convert" and purchase the software.This project aims to analyze following concepts using R analysis. 
+1.	Which demo source is better? Email or website?
+2.	Total minutes spent on email demo is more or on website?
+3.	User age of email demo source v/s website demo source user age
+4.	For user who checked demo software sent through email weather total minutes spent on demo software is a significant factor in predicting whether or not that user converted the software?
+5.	For user who checked demo software on website weather total minutes spent on demo software is a significant factor in predicting whether or not that user converted the software?
+6.	For user who checked demo software sent through email weather age group is a significant factor in predicting whether or not that user converted the software?
+7.	For user who checked demo software sent through email weather age group is a significant factor in predicting whether or not that user converted the software?
+
+This dataset is taken from https://github.com/djsensei/scikit-learn-meetup
+
 
 Data Feature Descriptions:
 •  num_visits - the number of distinct sessions the user spent with the software
